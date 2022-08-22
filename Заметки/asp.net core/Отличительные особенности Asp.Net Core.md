@@ -1,0 +1,1 @@
+![[Особенности технологии asp.net core .png\]][[Asp.Net Core]]

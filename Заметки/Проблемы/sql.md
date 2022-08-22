@@ -1,0 +1,1 @@
+- прыжки id https://stackoverflow.com/questions/14162648/sql-server-2012-column-identity-increment-jumping-from-6-to-1000-on-7th-entry

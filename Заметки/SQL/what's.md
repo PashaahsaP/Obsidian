@@ -1,0 +1,2 @@
+indentity columm 
+primary key

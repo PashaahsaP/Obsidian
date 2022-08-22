@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "6a935f58e3b17044",
+    "type": "split",
+    "children": [
+      {
+        "id": "16f5e5fcbef21669",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Заметки/Git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a73f2595a012d99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fba2c66773e59ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eed7c6526fa5d44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d35a74bf50f7cef9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 183.5
+  },
+  "right": {
+    "id": "0e46c56682584da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f6a09093854be26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e472001c6ee9a9a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Заметки/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "16f5e5fcbef21669",
+  "lastOpenFiles": [
+    "Заметки/Лямбда выражения.md",
+    "Заметки/Слова.md",
+    "Заметки/Expression.md",
+    "Заметки/Statement.md",
+    "Заметки/Анонимный метод.md",
+    "Заметки/События.md",
+    "Заметки/Делегат.md",
+    "Заметки/net core/GC.md",
+    "Заметки/Указатели.md",
+    "Заметки/Анонимный тип.md"
+  ]
+}
