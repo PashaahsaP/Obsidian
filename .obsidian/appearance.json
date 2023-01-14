@@ -1,3 +1,6 @@
 {
-  "baseFontSize": 22
+  "baseFontSize": 24,
+  "accentColor": "#634fc4",
+  "theme": "obsidian",
+  "cssTheme": "Wasp"
 }

@@ -8,4 +8,4 @@ var t = 34; t = "string";// будет ошибка
 ```C#
 var anon = new {Age = 34, Name = "Pavel"};
 ```
-[[Типизация]][[Linq query]]
+[[Типизация]][[Linq]]

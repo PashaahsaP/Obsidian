@@ -5,4 +5,9 @@
  Async/await упрощает ту часть асинхронного программирования которая отвечает за ожидания завершения вторичных потоков, извлечение результата из вторичного потока.
 
 Результаты выполнения можно получить напрямую через await
-[[Task]][[AsyncAwait]][[Asynchronous programming]]
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2011/february/msdn-magazine-parallel-computing-it-s-all-about-the-synchronizationcontext
+https://devblogs.microsoft.com/pfxteam/await-and-ui-and-deadlocks-oh-my/?WT.mc_id=DT-MVP-5000058#comments
+https://devblogs.microsoft.com/pfxteam/await-synchronizationcontext-and-console-apps/
+https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/consuming-the-task-based-asynchronous-pattern
+https://devblogs.microsoft.com/pfxteam/asyncawait-faq/?WT.mc_id=DT-MVP-5000058
+[[Task]][[AsyncAwait]][[Asynchronous programming]][[SynchronizationContext]]

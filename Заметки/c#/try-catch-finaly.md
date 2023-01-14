@@ -9,4 +9,5 @@ tcf нужен для обработки исключений. Блок `try` о
 Существует три класса исключение System.Exception,
 System.SystemException и System.ApplicationException.
 
-`finally` блок может не вызваться при вызове исключения InvalidProgramException  из-за повреждения инструкций IL,закрытии процесса,из за нехватки памяти, не будет выполнять блок finally[[Exception]]
+`finally` блок может не вызваться при вызове исключения InvalidProgramException  из-за повреждения инструкций IL,закрытии процесса,из за нехватки памяти, не будет выполнять блок finally
+[[Exception]]
